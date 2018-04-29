@@ -1,4 +1,12 @@
-var prompt = require('prompt');
+const Word = require("./word.js");
+
+const inquirer = require("inquirer");
+
+// npm package for determining if the user enters a letter of not (form validation).
+const isLetter = require('is-letter');
+
+// Create boxes within terminal 
+const 
 
 // Get letter from user via prompt
   // 
