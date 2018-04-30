@@ -34,8 +34,8 @@ const Word = function (myWord) {
 };
 
 // test word constructor
-const someWord = new Word('Burnsville');
-someWord.splitWord();
-someWord.generateLetters();
+// const someWord = new Word('Burnsville');
+// someWord.splitWord();
+// someWord.generateLetters();
 
 module.exports = Word;
